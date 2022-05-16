@@ -13,7 +13,7 @@ The short version is that you will need rust and `junod` available.
 
 Assuming you have never worked with rust, you will first need to install some tooling. The standard approach is to use `rustup` to maintain dependencies and handle updating multiple versions of `cargo` and `rustc`, which you will be using.
 
-### Installing Rust in Linux and Mac
+### Installing Rust in Linux, Mac and Windows
 
 First, [install rustup (opens new window)](https://rustup.rs). Once installed, make sure you have the wasm32 target:
 
